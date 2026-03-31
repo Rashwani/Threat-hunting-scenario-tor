@@ -123,6 +123,7 @@ Action: Process creation detected.
 Command: tor-browser-windows-x86_64-portable-15.0.8.exe /S
 File Path: C:\Users\yamen\Downloads\tor-browser-windows-x86_64-portable-15.0.8.exe
 
+
 3. File Creation - TOR Browser Extraction
 Timestamp: 2026-03-30 15:00:50 - 15:00:55
 Event: TOR Browser files were extracted to the Desktop directory, including core binaries and shortcut files.
@@ -160,6 +161,7 @@ Connections:
 64.65.62.38:443
 Note: Obfuscated domains and port usage are consistent with TOR relay infrastructure.
 
+
 7. Process Activity - TOR Browser Usage
 Timestamp: 2026-03-30 15:01:35 - 15:15:08
 Event: TOR Browser spawned 18+ child firefox.exe processes (content, GPU, RDD, utility), indicating active browsing activity.
@@ -170,6 +172,7 @@ Timestamp: 2026-03-30 15:09:07
 Event: formhistory.sqlite was created within the browser profile, indicating that the user interacted with a web form during the TOR session.
 Action: File creation detected.
 File Path: C:\Users\yamen\Desktop\Tor Browser\Browser\TorBrowser\Data\Browser\profile.default\
+
 
 9. File Creation - TOR Shopping List
 Timestamp: 2026-03-30 15:18:26
